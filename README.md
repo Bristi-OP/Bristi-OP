@@ -9,5 +9,5 @@
 
 
 
-- 🔭 I’m currently working on ... [Megastar userbot](GitHub.com/Bristi-OP/MEGASTAR)
+- 🔭 I’m currently working on ... [Megastar userbot](https://GitHub.com/Bristi-OP/MEGASTAR)
 
